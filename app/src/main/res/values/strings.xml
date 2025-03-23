@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HourlyForecast</string>
+    <string name="mostly_clear">Mostly clear</string>
+    <string name="mock_temp_28">28</string>
+    <string name="mock_temp_18">18</string>
+    <string name="mock_temp_23">23</string>
+    <string name="feels_like">Feels like 37</string>
+    <string name="higth">Higth</string>
+    <string name="low">Low</string>
+    <string name="cdmx">CDMX</string>
+</resources>
